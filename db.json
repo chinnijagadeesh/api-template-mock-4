@@ -1,0 +1,22 @@
+[
+    {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": 1299,
+            "borrowed": false
+      },
+      {
+        "image_url": "http://munchweb.com/wp-content/uploads/2017/10/rich-dad-poor-dad.jpg",
+        "book_name": "Rich Dad Poor Dad",
+        "author": "Robert T.Kiyosaki",
+            "genre": "fiction",
+            "edition": "2016",
+            "publisher": "Personal Finance book of all time",
+            "cost": 350,
+            "borrowed": false
+      }
+  ]
